@@ -4,7 +4,7 @@ using namespace std;
 void cool_function()
 {
 	cout << "hey there! again" << endl;
-	cout << "Sweet function" << endl;
+	cout << "Sweet function2" << endl;
 	cout << "Sweet sweet function" << endl;
 }
 
