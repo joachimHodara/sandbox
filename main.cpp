@@ -3,7 +3,7 @@ using namespace std;
 
 void cool_function()
 {
-	cout << "hey there!" << endl;
+	cout << "hey there! again" << endl;
 	cout << "Sweet function" << endl;
 	cout << "Sweet sweet function" << endl;
 }
