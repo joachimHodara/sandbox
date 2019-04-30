@@ -5,6 +5,7 @@ void cool_function()
 {
 	cout << "hey there!" << endl;
 	cout << "Sweet function" << endl;
+	cout << "Sweet sweet function" << endl;
 }
 
 int main()
