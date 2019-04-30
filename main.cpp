@@ -15,6 +15,13 @@ void cool_new_function()
 	cout << "Sweet sweet function" << endl;
 }
 
+void cool_new_function2()
+{
+	cout << "hey there!" << endl;
+	cout << "Sweet function" << endl;
+	cout << "Sweet sweet function" << endl;
+}
+
 int main()
 {
 	int i = 42;
@@ -26,4 +33,5 @@ int main()
 
     cool_function();
     cool_new_function();
+    cool_new_function2();
 }
