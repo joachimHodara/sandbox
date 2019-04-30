@@ -1,6 +1,13 @@
 #include <iostream>
 using namespace std;
 
+void cool_function()
+{
+	cout << "hey there!" << endl;
+	cout << "Sweet function" << endl;
+	cout << "Sweet sweet function" << endl;
+}
+
 int main()
 {
 	int i = 42;
@@ -9,4 +16,6 @@ int main()
     cout << "The answer is " << i << endl;
     cout << "hello world" << endl;
     cout << j << " is a bad answer" << endl;
+
+    cool_function();
 }
